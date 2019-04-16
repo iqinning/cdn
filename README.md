@@ -41,5 +41,7 @@ https://cdn.jsdelivr.net/gh/jquery/jquery@3.2.1/src/core.min.js
 
 https://cdn.jsdelivr.net/gh/jquery/jquery/
 
+https://cdn.jsdelivr.net/gh/iqinning/cdn/images/resource-scheduling/demo.jpg
+
 
 ```
